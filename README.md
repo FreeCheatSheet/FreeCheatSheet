@@ -4,5 +4,3 @@ Greetings and welcome to the FCS (FreeCheatSheet) Github! It's crucial to read t
 
 ## **Streaming**
 
-
-
